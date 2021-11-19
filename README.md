@@ -8,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esiquielNeto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esiquielNeto&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
-<\br>
 
 ### Linguagens e ferramentas:  
   
@@ -22,8 +20,6 @@
   <img align="center" alt="flyway" height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" />
   <img align="center" alt="liquibase" height="80" width="120" src="https://www.liquibase.com/wp-content/uploads/sites/4/2020/05/Liquibase_logo_horizontal_RGB.svg" />
 </div>
-  
-<\br>
   
 ### Contate me:
   
