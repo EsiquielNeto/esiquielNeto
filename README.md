@@ -9,6 +9,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esiquielNeto&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
+<\br>
+
+### Linguagens e ferramentas:  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="spring" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
@@ -19,7 +23,9 @@
   <img align="center" alt="liquibase" height="80" width="120" src="https://www.liquibase.com/wp-content/uploads/sites/4/2020/05/Liquibase_logo_horizontal_RGB.svg" />
 </div>
   
-##
+<\br>
+  
+### Contate me:
   
 <div>
   <a href = "mailto:ziki.neto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
