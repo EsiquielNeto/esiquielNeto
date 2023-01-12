@@ -18,7 +18,6 @@
   <img align="center" alt="gradle" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
   <img align="center" alt="docker" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="flyway" height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" />
-  <img align="center" alt="liquibase" height="80" width="120" src="https://www.liquibase.com/wp-content/themes/liquibase/assets/img/logo.svg" />
 </div>
   
 ### Contate me:
