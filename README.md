@@ -1,7 +1,7 @@
 ### Opá, belezinha?? 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java e Arquitetura 
+- 🌱 Estudando Golang, Java e Arquitetura 
 
 <div>
   <a href="https://beacons.ai/esiquielNeto">
